@@ -33,5 +33,5 @@
 
 <h2>🎨 Proje Görseli</h2>
 
-<img src=".././getirClone02/src/assets/gorsel.gif" alt="Proje Görseli"/>
+<img src="https://github.com/ibrahimcelik1804/getirClone/blob/main/src/assets/gorsel.gif?raw=true" alt="Proje Görseli"/>
 
